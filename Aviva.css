@@ -1,0 +1,98 @@
+body {
+    background-color: #010214;
+    text-align: center;
+}
+
+.name {
+    margin: 0;
+    width: 100%;
+}
+
+.name > h1 {
+    color: white;
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 0;
+}
+.header_links {
+    background-color: #D6B731;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 3rem;
+    text-align: right;
+    margin-bottom: 0;
+
+}
+.header_links > a {
+    text-decoration: none;
+    color: white;
+    text-anchor: end;
+    margin: 0.5rem;
+    line-height: 3rem;
+    text-align: right;
+    font-weight: bold;
+}
+.about_text{
+    margin-left: 10%;
+    margin-right: 10%;
+    height: fit-content;
+    text-align: justify;
+}
+.about_text > h1 {
+    text-align: left;
+}
+.about{
+    background-color: white;
+    margin-top: 0px;
+
+}
+#godown{
+    margin: 0px;
+    padding: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    background-color: red;
+    font-size: large;
+    font-style: normal;
+    font-family: "Arial";
+    color: white;
+    border-radius: 12px;
+    border: 0px;
+}
+.Table {
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+}
+table {
+    text-align: center;
+    width: 80%;
+    border-collapse: collapse;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+td {
+    border: 1px solid white;
+    padding:0.5rem;
+}
+
+.contacts_block{
+    background-color: white;
+}
+.contacts{
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.footer{
+    background-color: #D6B731;
+    color: white;
+    font-size: xx-small;
+    text-anchor: end;
+    height: 3rem;
+    margin-bottom: 0px;
+    padding-top: 0.7rem;
+}
